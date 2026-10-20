@@ -1,6 +1,3 @@
-# pathfinding-and-search-algorithms
-Python implementations of Dijkstra’s shortest path algorithm, a recursive Sudoku solver, and A* grid pathfinding with weighted terrain and a custom binary min-heap.
-
 # Pathfinding and Search Algorithms
 A collection of Python implementations exploring graph search, shortest-path computation, and constraint-solving techniques.
 
